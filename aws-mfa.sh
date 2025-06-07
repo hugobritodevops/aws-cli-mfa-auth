@@ -4,7 +4,7 @@ DURATION=43200 # 12h
 PROFILE=longterm
 TARGET_PROFILE=default
 
-echo -n "Digite o código MFA: "
+echo -n "Insert MFA Code: "
 read TOKEN_CODE
 
 # OBTÉM AS CREDENCIAIS TEMPORÁRIAS
