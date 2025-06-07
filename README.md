@@ -4,7 +4,7 @@ Bash script to automate AWS CLI credential refresh with MFA. Securely manage tem
 
 ---
 
-## Why Use This Approach? (Study Case)
+## Why Use This Approach?
 
 Many teams use AWS Cloud9 as a cloud-based development environment, which provides pre-configured credentials and easy access to AWS resources. However, there are important reasons to set up secure, local access with MFA:
 
